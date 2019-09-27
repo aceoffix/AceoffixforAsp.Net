@@ -10,7 +10,9 @@ How to support all the browsers in Aceoffix V5? Take the following steps:
 		
         <script type="text/javascript" src="aceoffix-runtime/js/aceoffix.js" id="ace_js_main"></script>
 
-    Note: The paths of jquery.min.js  and aceoffix.js are relative to the root of your website.
+    **Note: The paths of jquery.min.js  and aceoffix.js are relative to the root of your website.**
+    
+    ![](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/support_1.png?raw=true)
 	
 2. Change the old link to new link.
 
@@ -18,14 +20,20 @@ How to support all the browsers in Aceoffix V5? Take the following steps:
 
     The old link:
 
+    ![](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/support_2.png?raw=true)
+
     For example: The old link is 
 	
 	    <a href=”word/editword.aspx”>Edit Word document</a>
 	
-	The new link:
+    The new link:
+    
+    ![](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/support_3.png?raw=true)
     
     The new link is 
 	
 	    <a href=”javascript:AceBrowser.openWindowModeless('word/editword.aspx', 'width=1200px;height=800px;');”>Edit Word document</a>`
 
 3. The web page with Aceoffix will pop up when you click the new link in Chrome or Firefox browsers.  This new link can also work in other browsers (e.g. IE,  Opera, Edge).
+
+![](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/support_4.png?raw=true)
