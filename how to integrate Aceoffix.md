@@ -2,17 +2,17 @@
 
 1. Run the setup-server.exe to install the Aceoffix Server Components on the web server.
 
-![截图1](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_1.png?raw=true)
+![截图1](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_1.png?raw=true)
              
 2. Add the references of Aceoffix to your web project or web site.
   
-![截图2](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_2.png?raw=true)
+![截图2](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_2.png?raw=true)
 
-![截图3](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_3.png?raw=true)
+![截图3](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_3.png?raw=true)
 
 3. Copy the Install\aceoffix-runtime folder to the root folder of your website.
      
-![截图4](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_4.png?raw=true)
+![截图4](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_4.png?raw=true)
 
 4. Add the following code to the parent page of which page you want to edit Office document.
 Write the following code in the `<head>` tag. 
@@ -51,11 +51,11 @@ Write the following link to pop-up Aceoffix to edit Office document. We assume t
         
     Otherwise, you will get the errors:
 
-![截图5](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_5.png?raw=true)
+![截图5](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_5.png?raw=true)
 
     Or
 
-![截图6](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_6.png?raw=true)
+![截图6](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_6.png?raw=true)
 
     Add a new web page called savefile.aspx if your user want to save his/her document.
     
@@ -68,4 +68,4 @@ Write the following link to pop-up Aceoffix to edit Office document. We assume t
         }
 5. Congratulations. Your user can open, edit, save the Word documents in your web project online now. You have finished the integration of Aceoffix. Please refer to the examples5 to learn how to use more features of Aceoffix.
 
-![截图7](https://github.com/cupandcup/Edit-Word-Online-By-AceOffix/blob/master/Examples5/image/integrate_7.png?raw=true)
+![截图7](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/Examples5/image/integrate_7.png?raw=true)
