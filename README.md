@@ -32,3 +32,8 @@ Aceoffix Ultimate V5.0 is CHTJ5-15EPL-RYVZ-6L6EZ
 ## How to integrate Aceoffix into your web project
 
 [How to integrate Aceoffix into your web project](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/how%20to%20integrate%20Aceoffix.md)
+
+
+## How to support all the browsers
+
+[How to support all the browsers](https://github.com/aceoffix/AceoffixforAsp.Net/blob/master/How%20to%20support%20all%20the%20browsers.md)
